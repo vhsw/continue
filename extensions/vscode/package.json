@@ -60,7 +60,7 @@
     "languages": [
       {
         "filenames": [
-          "config.json",
+          ".continue/config.json",
           ".continuerc.json"
         ],
         "id": "jsonc"
@@ -511,7 +511,7 @@
     ],
     "jsonValidation": [
       {
-        "fileMatch": "config.json",
+        "fileMatch": ".continue/config.json",
         "url": "./config_schema.json"
       },
       {
